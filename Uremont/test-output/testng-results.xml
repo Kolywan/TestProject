@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="9" total="19" passed="10">
+  <reporter-output>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_1 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_2 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_2_2 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_4_1 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_4_2_1 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_4_1_1 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_6_1 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_5_1_1 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_5_2_1 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+    <line>
+      <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+    </line>
+    <line>
+      <![CDATA[Открыть https://uremont.dev/ <br>]]>
+    </line>
+    <line>
+      <![CDATA[</details></b>]]>
+    </line>
+    <line>
+      <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+    </line>
+    <line>
+      <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_7_1_1 TEST - smoke1 OK! chrome</div></b>]]>
+    </line>
+  </reporter-output>
+  <suite name="SMOKE TESTS UREMONT" duration-ms="262867" started-at="2019-06-03T05:26:31Z" finished-at="2019-06-03T05:30:54Z">
+    <groups>
+      <group name="smoke">
+        <method signature="Smoke_1.smoke1()[pri:1, instance:[Smoke_1 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_1"/>
+        <method signature="Smoke_2.smoke1()[pri:1, instance:[Smoke_2 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_2"/>
+        <method signature="Smoke_2_2.smoke1()[pri:1, instance:[Smoke_2_2 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_2_2"/>
+        <method signature="Smoke_4_1.smoke1()[pri:1, instance:[Smoke_4_1 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_4_1"/>
+        <method signature="Smoke_4_1_1.smoke1()[pri:1, instance:[Smoke_4_1_1 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_4_1_1"/>
+        <method signature="Smoke_4_2_1.smoke1()[pri:1, instance:[Smoke_4_2_1 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_4_2_1"/>
+        <method signature="Smoke_5_1_1.smoke1()[pri:1, instance:[Smoke_5_1_1 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_5_1_1"/>
+        <method signature="Smoke_5_2_1.smoke1()[pri:1, instance:[Smoke_5_2_1 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_5_2_1"/>
+        <method signature="Smoke_6_1.smoke1()[pri:1, instance:[Smoke_6_1 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_6_1"/>
+        <method signature="Smoke_7_1_1.smoke1()[pri:1, instance:[Smoke_7_1_1 passed=0 failed=0 skipped=0]]" name="smoke1" class="com.tests.smoke.Smoke_7_1_1"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="SMOKE TESTS" duration-ms="262867" started-at="2019-06-03T05:26:31Z" finished-at="2019-06-03T05:30:54Z">
+      <class name="com.tests.smoke.Smoke_1">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:[Smoke_1 passed=0 failed=0 skipped=0]]" name="cleanUp" is-config="true" duration-ms="9" started-at="2019-06-03T05:26:31Z" finished-at="2019-06-03T05:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_1 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="7658" started-at="2019-06-03T05:26:31Z" finished-at="2019-06-03T05:26:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_1 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="695" started-at="2019-06-03T05:26:38Z" finished-at="2019-06-03T05:26:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_1.smoke1()[pri:1, instance:[Smoke_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_1 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="3478" started-at="2019-06-03T05:26:39Z" finished-at="2019-06-03T05:26:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_1 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_1 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="16707" started-at="2019-06-03T05:26:43Z" finished-at="2019-06-03T05:26:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_1.smoke1()[pri:1, instance:[Smoke_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_1 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="670" started-at="2019-06-03T05:26:59Z" finished-at="2019-06-03T05:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_1 -->
+      <class name="com.tests.smoke.Smoke_5_1_1">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_5_1_1 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="6984" started-at="2019-06-03T05:29:32Z" finished-at="2019-06-03T05:29:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_5_1_1 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="340" started-at="2019-06-03T05:29:39Z" finished-at="2019-06-03T05:29:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_5_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_5_1_1.smoke1()[pri:1, instance:[Smoke_5_1_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_5_1_1 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="17624" started-at="2019-06-03T05:29:39Z" finished-at="2019-06-03T05:29:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_5_1_1 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_5_1_1 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="55" started-at="2019-06-03T05:29:57Z" finished-at="2019-06-03T05:29:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_5_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_5_1_1.smoke1()[pri:1, instance:[Smoke_5_1_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_5_1_1 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="634" started-at="2019-06-03T05:29:57Z" finished-at="2019-06-03T05:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_5_1_1 -->
+      <class name="com.tests.smoke.Smoke_5_2_1">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_5_2_1 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="7173" started-at="2019-06-03T05:29:57Z" finished-at="2019-06-03T05:30:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_5_2_1 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="360" started-at="2019-06-03T05:30:05Z" finished-at="2019-06-03T05:30:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_5_2_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_5_2_1.smoke1()[pri:1, instance:[Smoke_5_2_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_5_2_1 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="16867" started-at="2019-06-03T05:30:05Z" finished-at="2019-06-03T05:30:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_5_2_1 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_5_2_1 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="74" started-at="2019-06-03T05:30:22Z" finished-at="2019-06-03T05:30:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_5_2_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_5_2_1.smoke1()[pri:1, instance:[Smoke_5_2_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_5_2_1 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="655" started-at="2019-06-03T05:30:22Z" finished-at="2019-06-03T05:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_5_2_1 -->
+      <class name="com.tests.smoke.Smoke_2">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_2 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="7134" started-at="2019-06-03T05:27:00Z" finished-at="2019-06-03T05:27:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_2 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="343" started-at="2019-06-03T05:27:07Z" finished-at="2019-06-03T05:27:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_2 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_2.smoke1()[pri:1, instance:[Smoke_2 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_2 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="9344" started-at="2019-06-03T05:27:07Z" finished-at="2019-06-03T05:27:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_2 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_2 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="68" started-at="2019-06-03T05:27:17Z" finished-at="2019-06-03T05:27:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_2 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_2.smoke1()[pri:1, instance:[Smoke_2 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_2 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="660" started-at="2019-06-03T05:27:17Z" finished-at="2019-06-03T05:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_2 -->
+      <class name="com.tests.smoke.Smoke_4_2_1">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_4_2_1 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="6990" started-at="2019-06-03T05:28:05Z" finished-at="2019-06-03T05:28:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_4_2_1 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="352" started-at="2019-06-03T05:28:12Z" finished-at="2019-06-03T05:28:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_4_2_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_2_1.smoke1()[pri:1, instance:[Smoke_4_2_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_4_2_1 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="23328" started-at="2019-06-03T05:28:13Z" finished-at="2019-06-03T05:28:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_4_2_1 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_4_2_1 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="54" started-at="2019-06-03T05:28:36Z" finished-at="2019-06-03T05:28:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_4_2_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_2_1.smoke1()[pri:1, instance:[Smoke_4_2_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_4_2_1 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="661" started-at="2019-06-03T05:28:36Z" finished-at="2019-06-03T05:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_4_2_1 -->
+      <class name="com.tests.smoke.Smoke_2_2">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_2_2 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="7073" started-at="2019-06-03T05:27:18Z" finished-at="2019-06-03T05:27:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_2_2 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="340" started-at="2019-06-03T05:27:25Z" finished-at="2019-06-03T05:27:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_2_2 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_2_2.smoke1()[pri:1, instance:[Smoke_2_2 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_2_2 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="6151" started-at="2019-06-03T05:27:25Z" finished-at="2019-06-03T05:27:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_2_2 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_2_2 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="124" started-at="2019-06-03T05:27:31Z" finished-at="2019-06-03T05:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_2_2 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_2_2.smoke1()[pri:1, instance:[Smoke_2_2 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_2_2 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="680" started-at="2019-06-03T05:27:31Z" finished-at="2019-06-03T05:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_2_2 -->
+      <class name="com.tests.smoke.Smoke_4_1">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_4_1 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="7152" started-at="2019-06-03T05:27:32Z" finished-at="2019-06-03T05:27:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_4_1 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="347" started-at="2019-06-03T05:27:39Z" finished-at="2019-06-03T05:27:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_4_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_1.smoke1()[pri:1, instance:[Smoke_4_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_4_1 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="24955" started-at="2019-06-03T05:27:39Z" finished-at="2019-06-03T05:28:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_4_1 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_4_1 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="122" started-at="2019-06-03T05:28:04Z" finished-at="2019-06-03T05:28:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_4_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_1.smoke1()[pri:1, instance:[Smoke_4_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_4_1 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="676" started-at="2019-06-03T05:28:05Z" finished-at="2019-06-03T05:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_4_1 -->
+      <class name="com.tests.smoke.Smoke_6_1">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_6_1 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="6887" started-at="2019-06-03T05:29:08Z" finished-at="2019-06-03T05:29:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_6_1 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="341" started-at="2019-06-03T05:29:15Z" finished-at="2019-06-03T05:29:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_6_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_6_1.smoke1()[pri:1, instance:[Smoke_6_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_6_1 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="15738" started-at="2019-06-03T05:29:15Z" finished-at="2019-06-03T05:29:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_6_1 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_6_1 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="51" started-at="2019-06-03T05:29:31Z" finished-at="2019-06-03T05:29:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_6_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_6_1.smoke1()[pri:1, instance:[Smoke_6_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_6_1 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="626" started-at="2019-06-03T05:29:31Z" finished-at="2019-06-03T05:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_6_1 -->
+      <class name="com.tests.smoke.Smoke_4_1_1">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_4_1_1 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="7095" started-at="2019-06-03T05:28:37Z" finished-at="2019-06-03T05:28:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_4_1_1 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="338" started-at="2019-06-03T05:28:44Z" finished-at="2019-06-03T05:28:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_4_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_1_1.smoke1()[pri:1, instance:[Smoke_4_1_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_4_1_1 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="23433" started-at="2019-06-03T05:28:44Z" finished-at="2019-06-03T05:29:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_4_1_1 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_4_1_1 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="53" started-at="2019-06-03T05:29:07Z" finished-at="2019-06-03T05:29:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_4_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_1_1.smoke1()[pri:1, instance:[Smoke_4_1_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_4_1_1 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="656" started-at="2019-06-03T05:29:07Z" finished-at="2019-06-03T05:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_4_1_1 -->
+      <class name="com.tests.smoke.Smoke_7_1_1">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:[Smoke_7_1_1 passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="7125" started-at="2019-06-03T05:30:23Z" finished-at="2019-06-03T05:30:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startVideo(org.testng.ITestResult, java.lang.String, java.lang.String)[pri:0, instance:[Smoke_7_1_1 passed=0 failed=0 skipped=0]]" name="startVideo" is-config="true" duration-ms="340" started-at="2019-06-03T05:30:30Z" finished-at="2019-06-03T05:30:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_7_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_7_1_1.smoke1()[pri:1, instance:[Smoke_7_1_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://uremont.dev/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[</b><details><summary>Click to see last screen...</summary> <br></b>]]>
+            </line>
+            <line>
+              <![CDATA[Открыть https://uremont.dev/ <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startVideo -->
+        <test-method status="PASS" signature="smoke1()[pri:1, instance:[Smoke_7_1_1 passed=0 failed=0 skipped=0]]" name="smoke1" duration-ms="22852" started-at="2019-06-03T05:30:30Z" finished-at="2019-06-03T05:30:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[</details></b>]]>
+            </line>
+            <line>
+              <![CDATA[<a href=..\videos\smoke1.WMV download="filename">Download video</a>]]>
+            </line>
+            <line>
+              <![CDATA[<video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_7_1_1 TEST - smoke1 OK! chrome</div></b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- smoke1 -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult, java.lang.String)[pri:0, instance:[Smoke_7_1_1 passed=0 failed=0 skipped=0]]" name="result" is-config="true" duration-ms="79" started-at="2019-06-03T05:30:53Z" finished-at="2019-06-03T05:30:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=smoke1 on [Smoke_7_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_7_1_1.smoke1()[pri:1, instance:[Smoke_7_1_1 passed=0 failed=0 skipped=0]] output=</details></b>]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[Smoke_7_1_1 passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="700" started-at="2019-06-03T05:30:53Z" finished-at="2019-06-03T05:30:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.smoke.Smoke_7_1_1 -->
+    </test> <!-- SMOKE TESTS -->
+  </suite> <!-- SMOKE TESTS UREMONT -->
+</testng-results>

@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT">
+              <span class="suite-name border-passed">SMOKE TESTS UREMONT</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-SMOKE_TESTS_UREMONT">
+                    <span>C:\Users\Admin\Desktop\Uremont\Uremont\Uremont\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-SMOKE_TESTS_UREMONT">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-SMOKE_TESTS_UREMONT">
+                    <span>1 group</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-SMOKE_TESTS_UREMONT">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-SMOKE_TESTS_UREMONT">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-SMOKE_TESTS_UREMONT">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-SMOKE_TESTS_UREMONT">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">10 methods,   10 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-SMOKE_TESTS_UREMONT" class="hide-methods passed suite-SMOKE_TESTS_UREMONT"> (hide)</a> <!-- hide-methods passed suite-SMOKE_TESTS_UREMONT -->
+                      <a href="#" panel-name="suite-SMOKE_TESTS_UREMONT" class="show-methods passed suite-SMOKE_TESTS_UREMONT"> (show)</a> <!-- show-methods passed suite-SMOKE_TESTS_UREMONT -->
+                    </span>
+                    <div class="method-list-content passed suite-SMOKE_TESTS_UREMONT">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_6_1" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_5_2_1" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_1" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_2_2" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_4_1_1" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_7_1_1" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_2" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_4_1" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_4_2_1" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SMOKE_TESTS_UREMONT" title="com.tests.smoke.Smoke_5_1_1" hash-for-method="smoke1">smoke1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-SMOKE_TESTS_UREMONT -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-SMOKE_TESTS_UREMONT" class="panel SMOKE_TESTS_UREMONT">
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_7_1_1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_6_1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_4_1_1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_5_2_1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_2_2</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_5_1_1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_2</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_4_2_1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+          <div class="suite-SMOKE_TESTS_UREMONT-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.tests.smoke.Smoke_4_1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smoke1">
+                  </a> <!-- smoke1 -->
+                  <span class="method-name">smoke1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SMOKE_TESTS_UREMONT-class-passed -->
+        </div> <!-- panel SMOKE_TESTS_UREMONT -->
+        <div panel-name="test-xml-SMOKE_TESTS_UREMONT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Admin\Desktop\Uremont\Uremont\Uremont\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;1&quot; guice-stage=&quot;DEVELOPMENT&quot; name=&quot;SMOKE TESTS UREMONT&quot;&gt;
+  &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;parameter name=&quot;platform&quot; value=&quot;test&quot;/&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;SMOKE TESTS&quot;&gt;
+    &lt;parameter name=&quot;password&quot; value=&quot;pass&quot;/&gt;
+    &lt;parameter name=&quot;admin&quot; value=&quot;admin&quot;/&gt;
+    &lt;parameter name=&quot;admin_password&quot; value=&quot;password&quot;/&gt;
+    &lt;parameter name=&quot;user&quot; value=&quot;login&quot;/&gt;
+    &lt;parameter name=&quot;url&quot; value=&quot;https://uremont.dev/&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_1&quot;/&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_2&quot;/&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_2_2&quot;/&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_4_1&quot;/&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_4_2_1&quot;/&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_4_1_1&quot;/&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_6_1&quot;/&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_5_1_1&quot;/&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_5_2_1&quot;/&gt;
+      &lt;class name=&quot;com.tests.smoke.Smoke_7_1_1&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- SMOKE TESTS --&gt;
+&lt;/suite&gt; &lt;!-- SMOKE TESTS UREMONT --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-SMOKE_TESTS_UREMONT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for SMOKE TESTS UREMONT</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">SMOKE TESTS (10 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-SMOKE_TESTS_UREMONT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for SMOKE TESTS UREMONT</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">smoke1</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-SMOKE_TESTS_UREMONT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for SMOKE TESTS UREMONT</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_SMOKE_TESTS_UREMONT');
+function tableData_SMOKE_TESTS_UREMONT() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(10);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'smoke1')
+data.setCell(0, 2, 'com.tests.smoke.Smoke_4_1')
+data.setCell(0, 3, 24955);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'smoke1')
+data.setCell(1, 2, 'com.tests.smoke.Smoke_4_1_1')
+data.setCell(1, 3, 23433);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'smoke1')
+data.setCell(2, 2, 'com.tests.smoke.Smoke_4_2_1')
+data.setCell(2, 3, 23328);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'smoke1')
+data.setCell(3, 2, 'com.tests.smoke.Smoke_7_1_1')
+data.setCell(3, 3, 22852);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'smoke1')
+data.setCell(4, 2, 'com.tests.smoke.Smoke_5_1_1')
+data.setCell(4, 3, 17624);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'smoke1')
+data.setCell(5, 2, 'com.tests.smoke.Smoke_5_2_1')
+data.setCell(5, 3, 16867);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'smoke1')
+data.setCell(6, 2, 'com.tests.smoke.Smoke_6_1')
+data.setCell(6, 3, 15738);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'smoke1')
+data.setCell(7, 2, 'com.tests.smoke.Smoke_2')
+data.setCell(7, 3, 9344);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'smoke1')
+data.setCell(8, 2, 'com.tests.smoke.Smoke_2_2')
+data.setCell(8, 3, 6151);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'smoke1')
+data.setCell(9, 2, 'com.tests.smoke.Smoke_1')
+data.setCell(9, 3, 3478);
+window.suiteTableData['SMOKE_TESTS_UREMONT']= { tableData: data, tableDiv: 'times-div-SMOKE_TESTS_UREMONT'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 2 minutes</span>
+              <div id="times-div-SMOKE_TESTS_UREMONT">
+              </div> <!-- times-div-SMOKE_TESTS_UREMONT -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-SMOKE_TESTS_UREMONT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for SMOKE TESTS UREMONT</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_6_1 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_5_2_1 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_1 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_2_2 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_4_1_1 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_7_1_1 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_2 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_4_1 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_4_2_1 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">smoke1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"></details></b></span>
+                <span class="reporter-method-output"><a href=..\videos\smoke1.WMV download="filename">Download video</a></span>
+                <span class="reporter-method-output"><video width="320" height="240" controls>
+  <source src="..\videos\smoke1.WMV" type="video/wmv">
+</video></span>
+                <span class="reporter-method-output"><br><b><div align="left" style=" height:30px; width:250px; padding: 10px;  border: 2px solid gray; margin: 0; background-color:#19FF3A;">Class - Smoke_5_1_1 TEST - smoke1 OK! chrome</div></b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-SMOKE_TESTS_UREMONT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">9 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.tests.smoke.Smoke_7_1_1</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.tests.smoke.Smoke_4_1_1</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.tests.smoke.Smoke_6_1</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.tests.smoke.Smoke_5_2_1</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.tests.smoke.Smoke_2_2</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.tests.smoke.Smoke_5_1_1</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.tests.smoke.Smoke_2</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.tests.smoke.Smoke_4_2_1</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.tests.smoke.Smoke_4_1</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-SMOKE_TESTS_UREMONT" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_1</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">cleanUp</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">15 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_1.smoke...)</span>
+                <span class="method-start">7678 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">8373 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_1.smoke...)</span>
+                <span class="method-start">11852 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">28559 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_2</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">29230 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_2 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_2.smoke...)</span>
+                <span class="method-start">36365 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">36708 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_2 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_2.smoke...)</span>
+                <span class="method-start">46053 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">46121 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_2_2</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">46781 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_2_2 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_2_2.s...)</span>
+                <span class="method-start">53855 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">54195 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_2_2 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_2_2.s...)</span>
+                <span class="method-start">60347 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">60471 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_4_1</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">61151 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_4_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_1.s...)</span>
+                <span class="method-start">68303 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">68650 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_4_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_1.s...)</span>
+                <span class="method-start">93605 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">93727 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_4_2_1</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">94403 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_4_2_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_2...)</span>
+                <span class="method-start">101393 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">101745 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_4_2_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_2...)</span>
+                <span class="method-start">125074 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">125128 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_4_1_1</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">125789 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_4_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_1...)</span>
+                <span class="method-start">132885 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">133223 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_4_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_4_1...)</span>
+                <span class="method-start">156656 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">156709 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_6_1</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">157365 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_6_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_6_1.s...)</span>
+                <span class="method-start">164252 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">164593 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_6_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_6_1.s...)</span>
+                <span class="method-start">180331 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">180383 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_5_1_1</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">181009 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_5_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_5_1...)</span>
+                <span class="method-start">187993 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">188333 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_5_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_5_1...)</span>
+                <span class="method-start">205958 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">206013 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_5_2_1</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">206647 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_5_2_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_5_2...)</span>
+                <span class="method-start">213821 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">214181 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_5_2_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_5_2...)</span>
+                <span class="method-start">231048 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">231122 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.tests.smoke.Smoke_7_1_1</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(https://uremont.dev/, test)</span>
+                <span class="method-start">231777 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">startVideo([TestResult name=smoke1 on [Smoke_7_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_7_1...)</span>
+                <span class="method-start">238903 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">smoke1</span>
+                <span class="method-start">239243 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">result([TestResult name=smoke1 on [Smoke_7_1_1 passed=0 failed=0 skipped=0] status=SUCCESS method=Smoke_7_1...)</span>
+                <span class="method-start">262096 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">262176 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>
